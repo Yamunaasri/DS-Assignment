@@ -1,10 +1,9 @@
 # DS-Assignment
-Program developed by: Shabreena Vincent 
+```
+Name: Yamunaasri T S
 
-Register Number:212222230141
-
-Date:17-10-2024
-
+Register Number:212222240117
+```
 ## 1. Write programs for
 
 ## a)Infix to Postfix conversion
